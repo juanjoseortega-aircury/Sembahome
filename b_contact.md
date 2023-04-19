@@ -5,7 +5,7 @@ comments: yes
 permalink: /contact/
 ---
 
-<div class="downloads-content">
+<div class="contact-content">
     <p>Developers</p>
     <p>
         <strong>

@@ -361,14 +361,39 @@ q:after {
 }
 
 /**
-  * Style for downloads page
+  * Style for contact page
 */
-.downloads-content{
+.contact-content{
   margin: 5%;
   a{
     border-bottom: none;
   }
 }
-.downloads-content p:first-child{
+.contact-content p:first-child{
   color: red;
+}
+/**
+  * Style for download page
+*/
+.downloads-content{
+  a{
+    border-bottom: none;
+  }
+  ol li ,ul li {
+    margin-left: 4.5%;
+  }
+  ol li {
+    margin-bottom: 4%;
+  }
+}
+.download-file {
+  display: flex;
+  img{
+    border-radius: 0;
+    width: 50%;
+  }
+  div:nth-child(2){
+    align-self: center;
+  }
+  
 }
