@@ -365,6 +365,9 @@ q:after {
 */
 .downloads-content{
   margin: 5%;
+  a{
+    border-bottom: none;
+  }
 }
 .downloads-content p:first-child{
   color: red;

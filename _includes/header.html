@@ -4,7 +4,7 @@
 
     <h1 class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
     <h3 class="site-meta">{{ site.tagline }}</h3>
-    <a class="page-link"href="/">
+    <a class="page-link"href="{{ site.baseurl }}/">
       <img class="main-image"src="https://www.sembahome.org/wp-content/uploads/2018/09/cropped-cropped-ugrfdtd-logo-500x144.png" width="100%" height="2%" alt="SEMBA">
   </a>
     <nav class="site-nav">
@@ -24,12 +24,12 @@
         {% endfor %}
         <!--Here add the navigation bar on header.html file-->
         <a class="page-link" href="https://geg.sembahome.org/">Research group</a>
-        <a class="page-link dropdown" href="/semba/">SEMBA</a>
+        <a class="page-link dropdown" href="{{ site.baseurl }}/semba/">SEMBA</a>
         <div class="dropdown-content">
-          <a href="/conformal-mesher/">Conformal Mesher</a>
-          <a href="/opensemba/">OpenSEMBA</a>
-          <a href="/ugrfdtd/">ugrfdtd</a>
-          <a href="/zmesher/">zMesher</a>
+          <a href="{{ site.baseurl }}/conformal-mesher/">Conformal Mesher</a>
+          <a href="{{ site.baseurl }}/opensemba/">OpenSEMBA</a>
+          <a href="{{ site.baseurl }}/ugrfdtd/">ugrfdtd</a>
+          <a href="{{ site.baseurl }}/zmesher/">zMesher</a>
         </div>
       </div>
     </nav>
