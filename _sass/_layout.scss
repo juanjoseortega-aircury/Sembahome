@@ -374,31 +374,3 @@ q:after {
 .contact-content p:first-child{
   color: red;
 }
-
-
-/**
-  * Style for posts pages
-*/
-.post-content{
-  text-align: justify;
-  h4{
-    font-weight: bold
-  }
-  ol li ,ul li {
-    margin-left: 4.5%;
-  }
-  .download-file{
-    display: flex;
-    img{
-      border-radius: 0;
-      width: 65%;
-    }
-    div:nth-child(1){
-      width:20%;
-      text-align: center;
-    }
-    div:nth-child(2){
-      align-self: center;
-    }
-  }
-}
