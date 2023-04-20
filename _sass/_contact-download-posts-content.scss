@@ -1,0 +1,14 @@
+/**
+  * Style for contact page
+*/
+.contact-content,
+.downloads-content,
+.post-content{
+  margin: 5%;
+  a{
+    border-bottom: none;
+  }
+}
+.contact-content p:first-child{
+  color: red;
+}

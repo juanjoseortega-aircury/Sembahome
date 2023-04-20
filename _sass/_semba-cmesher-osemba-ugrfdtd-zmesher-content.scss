@@ -1,0 +1,18 @@
+/**
+  * Style for Semba Page, Conformal Mesher, OpenSEMBA, Ugrfdtd and zMesher 
+*/
+.semba-content,
+.conformal-mesher-content,
+.opensemba-content,
+.ugrfdtd-content,
+.zmesher-content{
+  width: 85%;
+  margin: auto;
+  text-align: justify;
+  a{
+    border-bottom: none;
+  }
+  ul,ol{
+    margin-left: 7%;
+  }
+}
