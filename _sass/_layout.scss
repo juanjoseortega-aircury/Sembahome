@@ -363,7 +363,9 @@ q:after {
 /**
   * Style for contact page
 */
-.contact-content{
+.contact-content,
+.downloads-content,
+.post-content{
   margin: 5%;
   a{
     border-bottom: none;
@@ -372,28 +374,31 @@ q:after {
 .contact-content p:first-child{
   color: red;
 }
+
+
 /**
-  * Style for download page
+  * Style for posts pages
 */
-.downloads-content{
-  a{
-    border-bottom: none;
+.post-content{
+  text-align: justify;
+  h4{
+    font-weight: bold
   }
   ol li ,ul li {
     margin-left: 4.5%;
   }
-  ol li {
-    margin-bottom: 4%;
+  .download-file{
+    display: flex;
+    img{
+      border-radius: 0;
+      width: 65%;
+    }
+    div:nth-child(1){
+      width:20%;
+      text-align: center;
+    }
+    div:nth-child(2){
+      align-self: center;
+    }
   }
-}
-.download-file {
-  display: flex;
-  img{
-    border-radius: 0;
-    width: 50%;
-  }
-  div:nth-child(2){
-    align-self: center;
-  }
-  
 }
