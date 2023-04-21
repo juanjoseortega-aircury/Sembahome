@@ -38,6 +38,8 @@ locales:
       Contact: "Contact"
       Downloads: "Downloads"
       Semba: "SEMBA"
+      Members: "Members"
+      BooksAndDocs: "Books and Docs"
 ### Build settings
 markdown: kramdown
 #highlighter: pygments
