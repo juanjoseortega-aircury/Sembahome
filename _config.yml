@@ -1,25 +1,12 @@
 ### Site info:
 title: SEMBA
 tagline: EMC BroadBand simulator
-#author: Lijia Yu
-email: ToChange@Tochange.com
-#description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-#keywords: "Jekyll, theme, Freshman21"
-#url: "https://" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-#twitter_username: yulijia
-github_username:  lmdiazangulo
-#disqus_shortname: freshman21
 favicon:     "/images/favicon.ico"
-#aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-#aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
-#google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
-
 
 ### Site setting:
-#ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
 default_locale: "en" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr),  Russian (ru), Turkish (tr), and Indonesian (id).
 
@@ -40,6 +27,7 @@ locales:
       Semba: "SEMBA"
       Members: "Members"
       BooksAndDocs: "Books and Docs"
+      
 ### Build settings
 markdown: kramdown
 #highlighter: pygments
