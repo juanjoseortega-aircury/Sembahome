@@ -26,7 +26,7 @@ permalink: /downloads/
         <li>Download the SEMBA evaluation version from:
             <div class="download-file">
                 <div>
-                <img src="{{ site.baseurl }}/images/zip.svg">
+                    <img src="{{ site.baseurl }}/images/zip.svg">
                 </div>
                 <div>
                     <strong>SEMBA Demo</strong><br/>
@@ -45,19 +45,19 @@ permalink: /downloads/
     <div class="download-file">
         <div>
             <img src="{{ site.baseurl }}/images/pdf.svg">
-            </div>
-            <div>
-                <strong>SEMBA User guide lite</strong><br/>
-                <strong><a href="{{ site.baseurl }}/downloads/semba_gid_manual210516.pdf" download>Download</a></strong>
-            </div>
+        </div>
+        <div>
+            <strong>SEMBA User guide lite</strong><br/>
+            <strong><a href="{{ site.baseurl }}/downloads/semba_gid_manual210516.pdf" download>Download</a></strong>
+        </div>
     </div>
     <div class="download-file">
         <div>
             <img src="{{ site.baseurl }}/images/zip.svg">
-            </div>
-            <div>
-                <strong>Tutorial cases</strong><br/>
-                <strong><a href="{{ site.baseurl }}/downloads/tutorial_cases.zip">Download</a></strong>
-            </div>
+        </div>
+        <div>
+            <strong>Tutorial cases</strong><br/>
+            <strong><a href="{{ site.baseurl }}/downloads/tutorial_cases.zip">Download</a></strong>
+        </div>
     </div>
 </div>

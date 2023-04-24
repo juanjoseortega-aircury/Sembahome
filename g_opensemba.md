@@ -16,5 +16,5 @@ permalink: /opensemba/
     <p>
     Code is available at:
     </p>
-     <a href="https://github.com/OpenSEMBA/OpenSEMBA">https://github.com/OpenSEMBA/OpenSEMBA</a>
+    <a href="https://github.com/OpenSEMBA/OpenSEMBA">https://github.com/OpenSEMBA/OpenSEMBA</a>
 </div>
