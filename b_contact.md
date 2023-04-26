@@ -29,7 +29,7 @@ permalink: /contact/
             <a href="mailto:lm@diazangulo.com">lm@diazangulo.com</a>
         </strong>
         <br/>
-        Assistant Professor at the the Department of Electromagnetism and Matter Physics, University of Granada.
+        Assistant Professor at the Department of Electromagnetism and Matter Physics, University of Granada.
     </p>
     <p>
         <strong>
