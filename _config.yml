@@ -2,7 +2,7 @@
 title: SEMBA
 tagline: EMC Broadband simulator
 locale: en_US
-
+host: 0.0.0.0
 ### Personal info and site tools info:
 favicon:     "/images/favicon.ico"
 
