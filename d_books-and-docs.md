@@ -4,6 +4,8 @@ title: BooksAndDocs
 comments: yes
 permalink: /booksanddocs/
 ---
+Please find below some publications of our research group: <a href="https://geg.ugr.es/">Grupo de Electromagnetismo de Granada (GEG)</a>
+
 <div class="dowloads-content">
     <h4>Electromagnetismo</h4>
     <div class="download-file">
