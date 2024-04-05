@@ -16,14 +16,17 @@
         </svg>
       </a>
       <div class="trigger">
-        {% for page in site.pages %}
+        <!-- {% for page in site.pages %}
           {% if page.title %}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | replace: page.title, site.locales[site.default_locale].[page.title] }}</a>
           {% endif %}
-        {% endfor %}
+        {% endfor %} -->
         <!--Here add the navigation bar on header.html file-->
+        <a class="page-link" href="{{ site.baseurl }}/">News</a>
+        <a class="page-link" href="{{ site.baseurl }}/opensemba/">OpenSEMBA</a>
+        <a class="page-link" href="{{ site.baseurl }}/contact">Contact</a>
         <a class="page-link" href="https://geg.ugr.es/">Group's CV</a>
-        <a class="page-link dropdown" href="{{ site.baseurl }}/opensemba/">OpenSEMBA</a>
+        <a class="page-link" href="{{ site.baseurl }}/booksanddocs/">Papers</a>
       </div>
     </nav>
    

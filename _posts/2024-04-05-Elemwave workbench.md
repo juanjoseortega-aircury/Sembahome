@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Elemwave workbench”"
+title: "Elemwave workbench"
 author: lmdiazangulo
 categories: Dissemination
 ---
