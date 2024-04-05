@@ -24,7 +24,7 @@ locales:
       News: "News"
       Contact: "Contact"
       OpenSemba: "OpenSEMBA"
-      BooksAndDocs: "Books and Docs"
+      BooksAndDocs: "Papers"
       
 ### Build settings
 markdown: kramdown
