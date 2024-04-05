@@ -12,7 +12,7 @@ default_locale: "en" # blog sidebar language set, only include: English (en), Ch
 
 locales:
     en:
-      Archive: "Archive"
+      Archives: "Archives"
       Categories: "Categories"
       Recent_Posts: "Recent Posts"
       Tags: "Tags"
