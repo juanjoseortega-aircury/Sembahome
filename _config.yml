@@ -12,7 +12,7 @@ default_locale: "en" # blog sidebar language set, only include: English (en), Ch
 
 locales:
     en:
-      Archives: "Archives"
+      Archive: "Archive"
       Categories: "Categories"
       Recent_Posts: "Recent Posts"
       Tags: "Tags"
@@ -23,9 +23,7 @@ locales:
       PostDate: "on "
       Home: "Home"
       Contact: "Contact"
-      Downloads: "Downloads"
-      Semba: "SEMBA"
-      Members: "Members"
+      OpenSemba: "OpenSEMBA"
       BooksAndDocs: "Books and Docs"
       
 ### Build settings
